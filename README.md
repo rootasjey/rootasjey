@@ -18,9 +18,9 @@ I'm a calm human being who regularly falls in love with art and creative express
 
 ## 🚀 Featured Projects
 
+- [**verbatims**](https://github.com/rootasjey/verbatims): Another quotes experiment, more open. 
 - [**zimablue**](https://github.com/rootasjey/zimablue): A creative project exploring the intersection of art and technology
-- [**trombidex**](https://github.com/rootasjey/trombidex): A modern, innovative solution for X
-- [**kwotes**](https://github.com/rootasjey/kwotes): A place to collect and share inspirational quotes
+- [**unsplasharp**](https://github.com/rootasjey/unsplasharp): C# API wrapper around Unsplash 📷 
 
 ## 🌱 More About Me
 
