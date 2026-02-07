@@ -18,9 +18,10 @@ I'm a calm human being who regularly falls in love with art and creative express
 
 ## 🚀 Featured Projects
 
-- [**verbatims**](https://github.com/rootasjey/verbatims): Another quotes experiment, more open. 
+- [**verbatims**](https://github.com/rootasjey/verbatims): Another quotes experiment, more open
 - [**zimablue**](https://github.com/rootasjey/zimablue): A creative project exploring the intersection of art and technology
-- [**unsplasharp**](https://github.com/rootasjey/unsplasharp): C# API wrapper around Unsplash 📷 
+- [**unsplasharp**](https://github.com/rootasjey/unsplasharp): C# API wrapper around Unsplash 📷
+- [**corpinot**](https://github.com/rootasjey/corpinot): my blog
 
 ## 🌱 More About Me
 
